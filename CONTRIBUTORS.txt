@@ -9,3 +9,4 @@
 # they accept any liabilities with respect to them.
 
 - Rafael Corchuelo (corchu@us.es)
+- Javier Rodríguez Santiago (javrodsan5@alum.us.es)
