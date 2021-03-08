@@ -9,6 +9,7 @@
 # they accept any liabilities with respect to them.
 
 - Rafael Corchuelo (corchu@us.es)
+- Javier Rodríguez Santiago (javrodsan5@alum.us.es)
 - Juan Luis Muñoz Navarro (juamunnav@alum.us.es)
 - Fernando Calvo Durán (fercaldur@alum.us.es)
 - Enrique Gonzalez Boza (enrgonboz@alum.us.es)
